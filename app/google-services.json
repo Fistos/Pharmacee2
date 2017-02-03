@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "479769001862",
+    "firebase_url": "https://pharmacee2.firebaseio.com",
+    "project_id": "pharmacee2",
+    "storage_bucket": "pharmacee2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479769001862:android:2a8d5b2620312a67",
+        "android_client_info": {
+          "package_name": "com.example.tih.pharmacee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479769001862-n49h254jl0tbsr1du64i6fa2cdrg2dlv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tih.pharmacee",
+            "certificate_hash": "3D426A71A3C2D9D8108B0E29ACD4C62920213E49"
+          }
+        },
+        {
+          "client_id": "479769001862-p91v1vkjmtqqj39id5js7jqgfrn82kr8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC26I1CtJuSlG7vBxaN3cHdlQAlOnuJ1Ho"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479769001862-p91v1vkjmtqqj39id5js7jqgfrn82kr8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
